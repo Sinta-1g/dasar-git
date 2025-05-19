@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(108, 139, 165);
+    margin: 0;
+    padding: 20px;
+}
+h2 {
+    color: rgb(31, 30, 7);
+    text-align: center;
+}
+td{
+    color: rgb(17, 16, 16);
+}
+table{
+width: 100%;
+    border-color: rgb(255, 255, 255);
+}
